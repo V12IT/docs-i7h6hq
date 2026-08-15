@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-w7pk6d.bca777.com/sitemap.xml
